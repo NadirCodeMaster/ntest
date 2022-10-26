@@ -2,3 +2,4 @@ new test3.txt
 added by another dev
 
 new line from test3
+hello world from local
